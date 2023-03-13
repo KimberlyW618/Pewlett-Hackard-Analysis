@@ -27,12 +27,12 @@ In this analysis we are helping Pewlett Hackard, a large company with several th
 
 ## Visualizations
 
-### Employee Data Base Mockup  
+### Employee Data Base Diagram  
 - [Images/EmployeeDB.png](Images/EmployeeDB.png)
 
 ![Images/EmployeeDB.png](Images/EmployeeDB.png)
 
-### CSV Link, Previews, and Code Images 
+### CSV Link, Code Images, & Previews
 
 #### Retirement Titles
 - CSV: [Data/Deliverable_Data/retirement_titles.csv](Data/Deliverable_Data/retirement_titles.csv)
