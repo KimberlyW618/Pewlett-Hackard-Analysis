@@ -35,8 +35,20 @@ In this analysis we are helping Pewlett Hackard, a large company with several th
 
 #### Retirement Titles
 - CSV: [Data/Deliverable_Data/retirement_titles.csv](Data/Deliverable_Data/retirement_titles.csv)
-- Images [Images/retirement_titles.png](Images/retirement_titles.png) 
+- Image [Images/retirement_titles.png](Images/retirement_titles.png) 
 ![Images/retirement_titles.png](Images/retirement_titles.png)
+
+
+#### Unique Titles
+- CSV: [Data/Deliverable_Data/unique_titles.csv](Data/Deliverable_Data/unique_titles.csv)
+- Image [Images/unique_titles.png](Images/unique_titles.png)
+![Images/unique_titles.png](Images/unique_titles.png)
+
+
+#### Retiring Titles
+- CSV: [Data/Deliverable_Data/retiring_titles.csv](Data/Deliverable_Data/retiring_titles.csv) 
+- Image [Images/retiring_titles.png](Images/retiring_titles.png)
+![Images/retiring_titles.png](Images/retiring_titles.png)
 
 #### Mentorship Eligibility  
 - CSV: [Data/Deliverable_Data/mentorship_eligibilty.csv](Data/Deliverable_Data/mentorship_eligibilty.csv)
