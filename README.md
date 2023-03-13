@@ -25,36 +25,36 @@ In this analysis we are helping Pewlett Hackard, a large company with several th
 
 
 
-## Visualizations
+### Visualizations
 
-### Employee Data Base Diagram  
+##### Employee Data Base Diagram  
 - [Images/EmployeeDB.png](Images/EmployeeDB.png)
 
 ![Images/EmployeeDB.png](Images/EmployeeDB.png)
 
-### CSV Link, Code Images, & Previews
+#### CSV Link, Code Images, & Previews
 
-#### Retirement Titles
+##### Retirement Titles
 - CSV: [Data/Deliverable_Data/retirement_titles.csv](Data/Deliverable_Data/retirement_titles.csv)
 - Image [Images/retirement_titles.png](Images/retirement_titles.png) 
 
 ![Images/retirement_titles.png](Images/retirement_titles.png)
 
 
-#### Unique Titles
+##### Unique Titles
 - CSV: [Data/Deliverable_Data/unique_titles.csv](Data/Deliverable_Data/unique_titles.csv)
 - Image [Images/unique_titles.png](Images/unique_titles.png)
 
 ![Images/unique_titles.png](Images/unique_titles.png)
 
 
-#### Retiring Titles
+##### Retiring Titles
 - CSV: [Data/Deliverable_Data/retiring_titles.csv](Data/Deliverable_Data/retiring_titles.csv) 
 - Image [Images/retiring_titles.png](Images/retiring_titles.png)
 
 ![Images/retiring_titles.png](Images/retiring_titles.png)
 
-#### Mentorship Eligibility  
+##### Mentorship Eligibility  
 - CSV: [Data/Deliverable_Data/mentorship_eligibilty.csv](Data/Deliverable_Data/mentorship_eligibilty.csv)
 - Image [Images/mentorship_eligibilty.png](Images/mentorship_eligibilty.png)
 
