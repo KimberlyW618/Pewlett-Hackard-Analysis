@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview
-
+In this analysis we are helping Pewlett Hackard, a large company with several thousand employees. Many are approaching retirement age and the company needs to be ready to fill the vacancies left behind in their wake. The main questions we will be looking at are, who will be retiring in the next few years, and how many positions will Pewlett Hackard need to fill? As well as who may be able to mentor new hires. We will build a data base using SQL with 6 CSV’s of varying lengths and then use them to filter, join and manipulate in order to find the information we seek.
 
 ### Resources
 
@@ -13,6 +13,7 @@
     - Employees [Data/Starting_Data/employees.csv](Data/Starting_Data/employees.csv)
     - Salaries [Data/Starting_Data/salaries.csv](Data/Starting_Data/salaries.csv)
     - Titles [Data/Starting_Data/titles.csv](Data/Starting_Data/titles.csv)
+
 
 ## Results
 
@@ -52,6 +53,3 @@
 - CSV: [Data/Deliverable_Data/mentorship_eligibilty.csv](Data/Deliverable_Data/mentorship_eligibilty.csv)
 - Image [Images/mentorship_eligibilty.png](Images/mentorship_eligibilty.png)
 ![Images/mentorship_eligibilty.png](Images/mentorship_eligibilty.png)
-
-
-
