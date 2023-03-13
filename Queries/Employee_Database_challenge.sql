@@ -1,3 +1,5 @@
+-- A Retirement Titles table for employees who are born 
+--between January 1, 1952 and December 31, 1955
 SELECT e.emp_no,
     e.first_name,
 	e.last_name,
@@ -12,8 +14,10 @@ WHERE (e.birth_date BETWEEN '1952-01-01' AND '1955-12-31')
 ORDER BY e.emp_no;
 
 SELECT * FROM re_title_info;
+-------------------------------
 
--- Use Dictinct with Orderby to remove duplicate rows
+-- Use Dictinct with Orderby to remove duplicate 
+--rows and filter out people who no longer work there
 SELECT DISTINCT ON (emp_no) 
 	emp_no,
 	first_name,
@@ -26,6 +30,9 @@ ORDER BY emp_no, title DESC;
 
 SELECT * FROM unique_titles;
 
+-- A Retiring Titles table that 
+--contains the number of titles 
+--filled by employees who are retiring
 SELECT COUNT (ut.emp_no), ut.title
 INTO retiring_titles 
 FROM unique_titles AS ut
@@ -35,7 +42,8 @@ ORDER BY COUNT(title)DESC;
 SELECT * FROM retiring_titles;
 
 ------------------------------------
-
+-- A query to create a Mentorship Eligibility table that holds the  
+--employees who are eligible to participate in a mentorship program.
 SELECT DISTINCT ON(e.emp_no) e.emp_no, 
     e.first_name, 
     e.last_name, 
@@ -53,4 +61,4 @@ ON (e.emp_no = ti.emp_no)
 	AND (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY e.emp_no;
 
-SELECT * FROM mentorship_eligibilty
+SELECT * FROM mentorship_eligibilty;
