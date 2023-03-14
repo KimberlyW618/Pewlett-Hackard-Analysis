@@ -62,8 +62,8 @@ In this analysis we are helping Pewlett Hackard, a large company with several th
 ![Images/retiring_titles.png](Images/retiring_titles.png)
 
 ### Mentorship Eligibility  
-- CSV: [Data/Deliverable_Data/mentorship_eligibilty.csv](Data/Deliverable_Data/mentorship_eligibilty.csv)
-- Image [Images/mentorship_eligibilty.png](Images/mentorship_eligibilty.png)
+- CSV: [Data/Deliverable_Data/mentorship_eligibility.csv](Data/Deliverable_Data/mentorship_eligibility.csv)
+- Image [Images/mentorship_eligibility.png](Images/mentorship_eligibility.png)
 
-![Images/mentorship_eligibilty.png](Images/mentorship_eligibilty.png)
+![Images/mentorship_eligibility.png](Images/mentorship_eligibility.png)
 
